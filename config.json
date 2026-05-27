@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterperify",
+        "uuid": 14805910,
+        "checksum": "0e32nw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
